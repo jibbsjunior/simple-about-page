@@ -1,0 +1,73 @@
+/* section {
+    float: left;
+} */
+
+/* Styling the body */
+body {
+    width: 1100px;
+    background: rgb(215, 215, 255);
+    margin: auto;
+    max-width: 95%;
+}
+
+/* Styling the header */
+h1 {
+    float: left;
+    margin: 0%;
+    color: rgb(100, 0, 0);
+}
+
+/* Styling the h2 inside the header */
+header h2 {
+    text-align: center;
+    font-weight: normal;
+    color: rgb(0, 150, 175);
+}
+
+/* Styling the section */
+section {
+    background: rgb(0, 255, 255);
+    padding: 10px, 100px;
+}
+
+/* Styling the h2 inside the section */
+section h2 {
+    color: rgb(70, 200, 21);
+    text-align: center;
+}
+
+/* Styling the paragraph inside the section */
+section p {
+    color: rgb(215, 100, 0);
+}
+
+/* styling the article */
+article {
+    background: rgb(255, 255, 255);
+    margin: 1%;
+    padding: 1%;
+    width: 29.3%;
+    float: left;
+    height: 200px;
+}
+
+/* Styling the paragraph inside the article */
+article p {
+    color: rgb(45, 45, 45);
+}
+/* Styling the list item inside the article */
+article li {
+    color: rgb(75, 75, 75);
+}
+
+footer {
+    background: rgb(175,175,175);
+    text-align: center;
+    clear: left;
+}
+/* header{
+	width:300px;
+	height:300px;
+	background:rgb(255,0,0);
+	float:left;
+} */
